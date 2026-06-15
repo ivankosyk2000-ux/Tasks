@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\VS\\Charivnyky\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90BB82F9-E00D-4565-8090-AA2DF97EE993}|Charivnyky\\Charivnyky.vcxproj|E:\\VS\\Charivnyky\\Charivnyky\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90BB82F9-E00D-4565-8090-AA2DF97EE993}|Charivnyky\\Charivnyky.vcxproj|solutionrelative:Charivnyky\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "E:\\VS\\Charivnyky\\Charivnyky\\main.cpp",
+              "RelativeDocumentMoniker": "Charivnyky\\main.cpp",
+              "ToolTip": "E:\\VS\\Charivnyky\\Charivnyky\\main.cpp*",
+              "RelativeToolTip": "Charivnyky\\main.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-15T14:42:36.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
