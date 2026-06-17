@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="04_Vesilla/04_Vesilla.vcxproj" />
+  <Project Path="04_Vesilla/04_Vesilla.vcxproj" Id="53d77dab-7ba5-4204-9638-906ca8744edc" />
 </Solution>

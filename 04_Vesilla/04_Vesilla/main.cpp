@@ -5,14 +5,15 @@ using namespace std;
 
 struct Person {
     string name;
+    string surname;
 };
 
 int main() {
     Person groom;
     Person bride;
-    getline(cin, groom.name);
-    getline(cin, bride.name);
-    cout << groom.name << " and " << bride.name << "! I pronounce you husband and wife.\n";
+    cin >> groom.name >> groom.surname;
+    cin >> bride.name >> bride.surname;
+    cout << groom.name << " " << groom.surname << " and " << bride.name << " " << bride.surname << "! I pronounce you husband and wife.\n";
 
     return 0;
 }
