@@ -1,16 +1,21 @@
-#include<iostream>
+#include <iostream>
 #include "Point.h"
 
 using namespace std;
 
-int main() {
-	Point p;
+int main(){
+    Point p = ReadPoint();
 
-	cout << "Print x: ";
-	cin >> p.x;
-	cout << "Print y: ";
-	cin >> p.y;
+    cout << "Read point: ";
+    PrintPoint(p);
+    cout << endl;
 
-	cout << "Point have koordinats (" << p.x << ";" << p.y << ")" << endl;
-	return 0;
+    Point symmetric;
+    symmetric.x = -p.x;
+    symmetric.y = -p.y;
+
+    cout << "Symmetric point: ";
+    PrintPoint(symmetric);
+
+    return 0;
 }
