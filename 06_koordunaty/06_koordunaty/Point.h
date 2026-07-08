@@ -15,7 +15,7 @@ struct Triangle {
 };
 Point ReadPoint();
 Vector2D PointDifference(Point p1, Point p2);
-//void PrintVector(Vector2D v);
+void PrintVector(Vector2D v);
 double FindLength(Vector2D v);
 
 Triangle ReadTriangle();
