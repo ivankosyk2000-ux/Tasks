@@ -3,19 +3,15 @@
 
 using namespace std;
 
-int main(){
-    Point p = ReadPoint();
+int main() {
+    Point p1 = ReadPoint();
+    Point p2 = ReadPoint();
 
-    cout << "Read point: ";
-    PrintPoint(p);
+    Vector2D v = PointDifference(p1, p2);
+
+    PrintVector(v);
     cout << endl;
-
-    Point symmetric;
-    symmetric.x = -p.x;
-    symmetric.y = -p.y;
-
-    cout << "Symmetric point: ";
-    PrintPoint(symmetric);
+    cout << FindLength(v) << endl;
 
     return 0;
 }
