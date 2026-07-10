@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,15 +30,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Point.h",
-              "DocumentMoniker": "E:\\C\u002B\u002B\\Sprint_01\\Clases\\06_koordunaty\\06_koordunaty\\Point.h",
-              "RelativeDocumentMoniker": "06_koordunaty\\Point.h",
-              "ToolTip": "E:\\C\u002B\u002B\\Sprint_01\\Clases\\06_koordunaty\\06_koordunaty\\Point.h",
-              "RelativeToolTip": "06_koordunaty\\Point.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-06-19T14:43:26.938Z",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "E:\\C\u002B\u002B\\Sprint_01\\Clases\\06_koordunaty\\06_koordunaty\\main.cpp",
+              "RelativeDocumentMoniker": "06_koordunaty\\main.cpp",
+              "ToolTip": "E:\\C\u002B\u002B\\Sprint_01\\Clases\\06_koordunaty\\06_koordunaty\\main.cpp",
+              "RelativeToolTip": "06_koordunaty\\main.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-19T14:31:44.451Z",
               "EditorCaption": ""
             },
             {
@@ -49,22 +49,22 @@
               "RelativeDocumentMoniker": "06_koordunaty\\Point.cpp",
               "ToolTip": "E:\\C\u002B\u002B\\Sprint_01\\Clases\\06_koordunaty\\06_koordunaty\\Point.cpp",
               "RelativeToolTip": "06_koordunaty\\Point.cpp",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAABsAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-07-06T14:35:47.922Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "main.cpp",
-              "DocumentMoniker": "E:\\C\u002B\u002B\\Sprint_01\\Clases\\06_koordunaty\\06_koordunaty\\main.cpp",
-              "RelativeDocumentMoniker": "06_koordunaty\\main.cpp",
-              "ToolTip": "E:\\C\u002B\u002B\\Sprint_01\\Clases\\06_koordunaty\\06_koordunaty\\main.cpp",
-              "RelativeToolTip": "06_koordunaty\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-06-19T14:31:44.451Z",
+              "DocumentIndex": 2,
+              "Title": "Point.h",
+              "DocumentMoniker": "E:\\C\u002B\u002B\\Sprint_01\\Clases\\06_koordunaty\\06_koordunaty\\Point.h",
+              "RelativeDocumentMoniker": "06_koordunaty\\Point.h",
+              "ToolTip": "E:\\C\u002B\u002B\\Sprint_01\\Clases\\06_koordunaty\\06_koordunaty\\Point.h",
+              "RelativeToolTip": "06_koordunaty\\Point.h",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-06-19T14:43:26.938Z",
               "EditorCaption": ""
             }
           ]
