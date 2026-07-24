@@ -4,12 +4,23 @@
 using namespace std;
 
 int main() {
-    /*Point p1 = ReadPoint();
+    Point p1 = ReadPoint();
     Point p2 = ReadPoint();
-    
-    Vector2D v = PointDifference(p1, p2);
 
-    PrintVector(v);
+    double s;
+    cin >> s;
+
+    Vector2D v = PointDifference(p1, p2);
+    ScaleVector(v, s);
+
+    Point p = p1;
+    OffsetPoint(p, v);
+
+    cout << p.x << ", " << p.y << endl;
+
+    return 0;
+}
+    /*PrintVector(v);
     cout << endl;
     cout << FindLength(v) << endl;*/
 
@@ -17,7 +28,7 @@ int main() {
     //cout << FindPerimeter(t) << endl;
 
 
-    Triangle t = ReadTriangle();
+   /* Triangle t = ReadTriangle();
     Point origin = GetCenter(t);
     Point center = ReadPoint();
     Vector2D offset = PointDifference(center, origin);
@@ -31,4 +42,4 @@ int main() {
     PrintTriangle(t);
     std::cout << endl;
     return 0;
-}
+}*/

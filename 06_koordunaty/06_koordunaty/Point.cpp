@@ -9,16 +9,25 @@ Point ReadPoint() {
     cin >> p.x >> p.y;
     return p;
 }
-void PrintPoint(Point p) {
+/*void PrintPoint(Point p) {
     cout << "{" << p.x << ", " << p.y << "}";
-}
+}*/
 Vector2D PointDifference(Point p1, Point p2) {
     Vector2D v;
     v.x = p2.x - p1.x;
     v.y = p2.y - p1.y;
     return v;
 }
-void PrintVector(Vector2D v) {
+void ScaleVector(Vector2D& v, double s) {
+    v.x *= s;
+    v.y *= s;
+}
+void OffsetPoint(Point& p, Vector2D v) {
+    p.x += v.x;
+    p.y += v.y;
+}
+
+/*void PrintVector(Vector2D v) {
     cout << "{" << v.x << ", " << v.y << "}";
 }
 double FindLength(Vector2D v) {
@@ -61,4 +70,4 @@ void PrintTriangle(const Triangle& t) {
     cout << ", ";
     PrintPoint(t.p3);
     cout << "}";
-}
+}*/
