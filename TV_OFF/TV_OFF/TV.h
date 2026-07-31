@@ -4,7 +4,7 @@ const int MAX_CHANNEL = 99;
 
 class TV {
 private:
-	bool is_on_ = false;
+	bool is_turned_on_ = false;
 	int current_channel_ = 1;
 public:
 	void TurnOn();

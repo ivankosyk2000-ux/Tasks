@@ -1,13 +1,13 @@
 #include "TV.h"
 
 void TV::TurnOn() {
-	is_on_ = true;
+	is_turned_on_ = true;
 }
 void TV::TurnOff() {
-	is_on_ = false;
+	is_turned_on_ = false;
 }
 bool TV::IsTurnedOn() const {
-	return is_on_;
+	return is_turned_on_;
 }
 bool TV::SelectChannel(int channel) {
 	if (!IsTurnedOn() || channel < MIN_CHANNEL || channel > MAX_CHANNEL) {
