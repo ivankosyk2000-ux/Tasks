@@ -4,7 +4,6 @@
 using namespace std;
 
 int main() {
-	const int MAX_CHANNEL = 99;
 	//Тест 1. Перевіряє, що телевізор за замовчуванням вимкнений.
 		//C++ • Класи та об’єкти
 		TV tv1;

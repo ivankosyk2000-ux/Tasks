@@ -3,7 +3,9 @@
     "Data": {
         "Source": "e:\\c++\\sprint_01\\clases\\tv_off\\tv_off\\tv.cpp",
         "ProvidedModule": "",
-        "Includes": [],
+        "Includes": [
+            "e:\\c++\\sprint_01\\clases\\tv_off\\tv_off\\tv.h"
+        ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
     }

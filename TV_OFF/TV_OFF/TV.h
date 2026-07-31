@@ -1,4 +1,6 @@
 #pragma once
+const int MIN_CHANNEL = 1;
+const int MAX_CHANNEL = 99;
 
 class TV {
 private:
