@@ -1,36 +1,7 @@
 #include<iostream>
 #include <cassert>
+#include "TV.h"
 using namespace std;
-
-class TV {
-private:
-	bool is_on_ = false;
-	int current_channel_ = 1;
-public:
-	void TurnOn() {
-		is_on_ = true;
-	}
-	void TurnOff() {
-		is_on_ = false;
-	}
-	bool IsTurnedOn() const {
-		return is_on_;
-	}
-	bool SelectChannel(int channel) {
-		if (!is_on_ || channel < 1 || channel>99) {
-			return false;
-		}
-		current_channel_ = channel;
-		return true;
-	}
-	int GetCurrentChannel() const {
-		if (!is_on_) {
-			return 0;
-		}
-		return current_channel_;
-	}
-
-};
 
 int main() {
 	const int MAX_CHANNEL = 99;

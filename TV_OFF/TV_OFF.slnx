@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="TV_OFF/TV_OFF.vcxproj" />
+  <Project Path="TV_OFF/TV_OFF.vcxproj" Id="7ad3590f-d324-4844-a30c-c9f7b8b074a0" />
 </Solution>
