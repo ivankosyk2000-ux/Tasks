@@ -1,0 +1,7 @@
+﻿  car_.cpp
+car_.obj : error LNK2019: unresolved external symbol "public: static bool __cdecl Car::IsSpeedValidForGear(int,enum Gear)" (?IsSpeedValidForGear@Car@@SA_NHW4Gear@@@Z) referenced in function "public: bool __cdecl Car::SetSpeed(int)" (?SetSpeed@Car@@QEAA_NH@Z)
+main.obj : error LNK2001: unresolved external symbol "public: static bool __cdecl Car::IsSpeedValidForGear(int,enum Gear)" (?IsSpeedValidForGear@Car@@SA_NHW4Gear@@@Z)
+main.obj : error LNK2019: unresolved external symbol "public: void __cdecl Car::TurnEngineOn(void)" (?TurnEngineOn@Car@@QEAAXXZ) referenced in function main
+main.obj : error LNK2019: unresolved external symbol "public: bool __cdecl Car::TurnEngineOff(void)" (?TurnEngineOff@Car@@QEAA_NXZ) referenced in function main
+main.obj : error LNK2019: unresolved external symbol "public: static int __cdecl Car::GetMaxSpeedForGear(enum Gear)" (?GetMaxSpeedForGear@Car@@SAHW4Gear@@@Z) referenced in function main
+E:\C++\Sprint_01\Clases\Tasks\x64\Debug\Tasks.exe : fatal error LNK1120: 4 unresolved externals

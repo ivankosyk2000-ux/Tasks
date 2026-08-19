@@ -1,0 +1,12 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\c++\\sprint_01\\clases\\tasks_\\tasks_\\task.cpp",
+        "ProvidedModule": "",
+        "Includes": [
+            "e:\\c++\\sprint_01\\clases\\tasks_\\tasks_\\task.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

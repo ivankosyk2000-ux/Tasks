@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "E:\\C\u002B\u002B\\Sprint_01\\Clases\\TV_OFF\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7AD3590F-D324-4844-A30C-C9F7B8B074A0}|TV_OFF\\TV_OFF.vcxproj|E:\\C\u002B\u002B\\Sprint_01\\Clases\\TV_OFF\\TV_OFF\\TV.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7AD3590F-D324-4844-A30C-C9F7B8B074A0}|TV_OFF\\TV_OFF.vcxproj|solutionrelative:TV_OFF\\TV.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{7AD3590F-D324-4844-A30C-C9F7B8B074A0}|TV_OFF\\TV_OFF.vcxproj|E:\\C\u002B\u002B\\Sprint_01\\Clases\\TV_OFF\\TV_OFF\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7AD3590F-D324-4844-A30C-C9F7B8B074A0}|TV_OFF\\TV_OFF.vcxproj|solutionrelative:TV_OFF\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AD3590F-D324-4844-A30C-C9F7B8B074A0}|TV_OFF\\TV_OFF.vcxproj|E:\\C\u002B\u002B\\Sprint_01\\Clases\\TV_OFF\\TV_OFF\\tv_control.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7AD3590F-D324-4844-A30C-C9F7B8B074A0}|TV_OFF\\TV_OFF.vcxproj|solutionrelative:TV_OFF\\tv_control.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7AD3590F-D324-4844-A30C-C9F7B8B074A0}|TV_OFF\\TV_OFF.vcxproj|E:\\C\u002B\u002B\\Sprint_01\\Clases\\TV_OFF\\TV_OFF\\TV.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7AD3590F-D324-4844-A30C-C9F7B8B074A0}|TV_OFF\\TV_OFF.vcxproj|solutionrelative:TV_OFF\\TV.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7AD3590F-D324-4844-A30C-C9F7B8B074A0}|TV_OFF\\TV_OFF.vcxproj|E:\\C\u002B\u002B\\Sprint_01\\Clases\\TV_OFF\\TV_OFF\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7AD3590F-D324-4844-A30C-C9F7B8B074A0}|TV_OFF\\TV_OFF.vcxproj|solutionrelative:TV_OFF\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{7AD3590F-D324-4844-A30C-C9F7B8B074A0}|TV_OFF\\TV_OFF.vcxproj|E:\\C\u002B\u002B\\Sprint_01\\Clases\\TV_OFF\\TV_OFF\\TV.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7AD3590F-D324-4844-A30C-C9F7B8B074A0}|TV_OFF\\TV_OFF.vcxproj|solutionrelative:TV_OFF\\TV.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AD3590F-D324-4844-A30C-C9F7B8B074A0}|TV_OFF\\TV_OFF.vcxproj|E:\\C\u002B\u002B\\Sprint_01\\Clases\\TV_OFF\\TV_OFF\\tv_control.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7AD3590F-D324-4844-A30C-C9F7B8B074A0}|TV_OFF\\TV_OFF.vcxproj|solutionrelative:TV_OFF\\tv_control.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,39 +38,65 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "main.cpp",
-              "DocumentMoniker": "E:\\C\u002B\u002B\\Sprint_01\\Clases\\TV_OFF\\TV_OFF\\main.cpp",
-              "RelativeDocumentMoniker": "TV_OFF\\main.cpp",
-              "ToolTip": "E:\\C\u002B\u002B\\Sprint_01\\Clases\\TV_OFF\\TV_OFF\\main.cpp",
-              "RelativeToolTip": "TV_OFF\\main.cpp",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAAUAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-07-22T14:49:11.216Z",
+              "DocumentIndex": 1,
+              "Title": "tv_control.h",
+              "DocumentMoniker": "E:\\C\u002B\u002B\\Sprint_01\\Clases\\TV_OFF\\TV_OFF\\tv_control.h",
+              "RelativeDocumentMoniker": "TV_OFF\\tv_control.h",
+              "ToolTip": "E:\\C\u002B\u002B\\Sprint_01\\Clases\\TV_OFF\\TV_OFF\\tv_control.h",
+              "RelativeToolTip": "TV_OFF\\tv_control.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-08-15T08:42:25.874Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "tv_control.cpp",
+              "DocumentMoniker": "E:\\C\u002B\u002B\\Sprint_01\\Clases\\TV_OFF\\TV_OFF\\tv_control.cpp",
+              "RelativeDocumentMoniker": "TV_OFF\\tv_control.cpp",
+              "ToolTip": "E:\\C\u002B\u002B\\Sprint_01\\Clases\\TV_OFF\\TV_OFF\\tv_control.cpp",
+              "RelativeToolTip": "TV_OFF\\tv_control.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-15T08:42:06.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "TV.cpp",
               "DocumentMoniker": "E:\\C\u002B\u002B\\Sprint_01\\Clases\\TV_OFF\\TV_OFF\\TV.cpp",
               "RelativeDocumentMoniker": "TV_OFF\\TV.cpp",
               "ToolTip": "E:\\C\u002B\u002B\\Sprint_01\\Clases\\TV_OFF\\TV_OFF\\TV.cpp",
               "RelativeToolTip": "TV_OFF\\TV.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-07-31T14:18:12.968Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "E:\\C\u002B\u002B\\Sprint_01\\Clases\\TV_OFF\\TV_OFF\\main.cpp",
+              "RelativeDocumentMoniker": "TV_OFF\\main.cpp",
+              "ToolTip": "E:\\C\u002B\u002B\\Sprint_01\\Clases\\TV_OFF\\TV_OFF\\main.cpp",
+              "RelativeToolTip": "TV_OFF\\main.cpp",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-22T14:49:11.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "TV.h",
               "DocumentMoniker": "E:\\C\u002B\u002B\\Sprint_01\\Clases\\TV_OFF\\TV_OFF\\TV.h",
               "RelativeDocumentMoniker": "TV_OFF\\TV.h",
               "ToolTip": "E:\\C\u002B\u002B\\Sprint_01\\Clases\\TV_OFF\\TV_OFF\\TV.h",
               "RelativeToolTip": "TV_OFF\\TV.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-07-31T14:16:43.554Z",
               "EditorCaption": ""

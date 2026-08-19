@@ -141,9 +141,11 @@
   <ItemGroup>
     <ClCompile Include="main.cpp" />
     <ClCompile Include="TV.cpp" />
+    <ClCompile Include="tv_control.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="TV.h" />
+    <ClInclude Include="tv_control.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

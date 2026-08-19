@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C\u002B\u002B\\Sprint_01\\Clases\\Tasks_\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{524079AE-9FB1-42A1-8D13-9E9581CBA169}|Tasks_\\Tasks_.vcxproj|E:\\C\u002B\u002B\\Sprint_01\\Clases\\Tasks_\\Tasks_\\Task.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{524079AE-9FB1-42A1-8D13-9E9581CBA169}|Tasks_\\Tasks_.vcxproj|solutionrelative:Tasks_\\Task.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{524079AE-9FB1-42A1-8D13-9E9581CBA169}|Tasks_\\Tasks_.vcxproj|E:\\C\u002B\u002B\\Sprint_01\\Clases\\Tasks_\\Tasks_\\Task.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{524079AE-9FB1-42A1-8D13-9E9581CBA169}|Tasks_\\Tasks_.vcxproj|solutionrelative:Tasks_\\Task.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{524079AE-9FB1-42A1-8D13-9E9581CBA169}|Tasks_\\Tasks_.vcxproj|E:\\C\u002B\u002B\\Sprint_01\\Clases\\Tasks_\\Tasks_\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{524079AE-9FB1-42A1-8D13-9E9581CBA169}|Tasks_\\Tasks_.vcxproj|solutionrelative:Tasks_\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Task.cpp",
+              "DocumentMoniker": "E:\\C\u002B\u002B\\Sprint_01\\Clases\\Tasks_\\Tasks_\\Task.cpp",
+              "RelativeDocumentMoniker": "Tasks_\\Task.cpp",
+              "ToolTip": "E:\\C\u002B\u002B\\Sprint_01\\Clases\\Tasks_\\Tasks_\\Task.cpp",
+              "RelativeToolTip": "Tasks_\\Task.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-12T10:10:50.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "E:\\C\u002B\u002B\\Sprint_01\\Clases\\Tasks_\\Tasks_\\main.cpp",
+              "RelativeDocumentMoniker": "Tasks_\\main.cpp",
+              "ToolTip": "E:\\C\u002B\u002B\\Sprint_01\\Clases\\Tasks_\\Tasks_\\main.cpp",
+              "RelativeToolTip": "Tasks_\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-12T10:10:03.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Task.h",
+              "DocumentMoniker": "E:\\C\u002B\u002B\\Sprint_01\\Clases\\Tasks_\\Tasks_\\Task.h",
+              "RelativeDocumentMoniker": "Tasks_\\Task.h",
+              "ToolTip": "E:\\C\u002B\u002B\\Sprint_01\\Clases\\Tasks_\\Tasks_\\Task.h",
+              "RelativeToolTip": "Tasks_\\Task.h",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-08-12T10:11:28.365Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
