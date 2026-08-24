@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C\u002B\u002B\\Sprint_01\\Clases\\Calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DF079D-E764-4E82-B579-C2D289A4406D}|Calculator\\Calculator.vcxproj|E:\\C\u002B\u002B\\Sprint_01\\Clases\\Calculator\\Calculator\\Calculator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B5DF079D-E764-4E82-B579-C2D289A4406D}|Calculator\\Calculator.vcxproj|solutionrelative:Calculator\\Calculator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DF079D-E764-4E82-B579-C2D289A4406D}|Calculator\\Calculator.vcxproj|E:\\C\u002B\u002B\\Sprint_01\\Clases\\Calculator\\Calculator\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B5DF079D-E764-4E82-B579-C2D289A4406D}|Calculator\\Calculator.vcxproj|solutionrelative:Calculator\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DF079D-E764-4E82-B579-C2D289A4406D}|Calculator\\Calculator.vcxproj|E:\\C\u002B\u002B\\Sprint_01\\Clases\\Calculator\\Calculator\\calculator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B5DF079D-E764-4E82-B579-C2D289A4406D}|Calculator\\Calculator.vcxproj|solutionrelative:Calculator\\calculator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "calculator.h",
+              "DocumentMoniker": "E:\\C\u002B\u002B\\Sprint_01\\Clases\\Calculator\\Calculator\\calculator.h",
+              "RelativeDocumentMoniker": "Calculator\\calculator.h",
+              "ToolTip": "E:\\C\u002B\u002B\\Sprint_01\\Clases\\Calculator\\Calculator\\calculator.h",
+              "RelativeToolTip": "Calculator\\calculator.h",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-08-21T14:49:43.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculator.cpp",
+              "DocumentMoniker": "E:\\C\u002B\u002B\\Sprint_01\\Clases\\Calculator\\Calculator\\Calculator.cpp",
+              "RelativeDocumentMoniker": "Calculator\\Calculator.cpp",
+              "ToolTip": "E:\\C\u002B\u002B\\Sprint_01\\Clases\\Calculator\\Calculator\\Calculator.cpp",
+              "RelativeToolTip": "Calculator\\Calculator.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-21T14:49:31.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "E:\\C\u002B\u002B\\Sprint_01\\Clases\\Calculator\\Calculator\\main.cpp",
+              "RelativeDocumentMoniker": "Calculator\\main.cpp",
+              "ToolTip": "E:\\C\u002B\u002B\\Sprint_01\\Clases\\Calculator\\Calculator\\main.cpp",
+              "RelativeToolTip": "Calculator\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-21T14:49:12.327Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

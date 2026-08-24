@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C\u002B\u002B\\Sprint_01\\Clases\\Time\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CF653BE-EE4B-461E-BDC9-4D1567F1ABDA}|Time\\Time.vcxproj|E:\\C\u002B\u002B\\Sprint_01\\Clases\\Time\\Time\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0CF653BE-EE4B-461E-BDC9-4D1567F1ABDA}|Time\\Time.vcxproj|solutionrelative:Time\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "E:\\C\u002B\u002B\\Sprint_01\\Clases\\Time\\Time\\main.cpp",
+              "RelativeDocumentMoniker": "Time\\main.cpp",
+              "ToolTip": "E:\\C\u002B\u002B\\Sprint_01\\Clases\\Time\\Time\\main.cpp",
+              "RelativeToolTip": "Time\\main.cpp",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAACYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-19T14:40:36.739Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
